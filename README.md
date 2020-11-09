@@ -1,6 +1,6 @@
 # tatakAI
 
-A video game that seeks touse  Reinforcement Learning to train NPCs to fight. Used the Unity Game Engine
+A video game that seeks to use  Reinforcement Learning to train NPCs to fight. Used the Unity Game Engine
 along with Unity ML Agents.
 
 I was team lead for this project. Coordinated between the game development and the machine learning
