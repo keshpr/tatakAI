@@ -8,5 +8,5 @@ teams (total of 8-10 developers). Envisioned project scope and direction.
 
 Created as part of a collaboration between ACM AI and ACM Game Studio at UCLA (student organizations on campus).
 
-I did not personally write this code. Code is in Assets, under different subdirectories depending on 
+Code is in Assets, under different subdirectories depending on 
 who added that code. 
